@@ -1,1 +1,1 @@
-# Store-Billing-Syatem
+# Store-Billing-System
